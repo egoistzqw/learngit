@@ -9,9 +9,6 @@ __hostsdeny__ = ()
 #__hostsdeny__ = ('.youtube.com', '.youku.com', ".googlevideo.com")
 __content_type__ = 'image/gif'
 
-import sys
-import os
-import re
 import time
 import struct
 import zlib
